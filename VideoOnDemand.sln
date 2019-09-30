@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.UI", "VOD.UI\VOD.UI.csproj", "{C026A8C5-5FAA-4E5A-A044-F06896230312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.Common", "VOD.Common\VOD.Common.csproj", "{49823B2D-213F-4825-9C06-63D5903D0B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOD.Database", "VOD.Database\VOD.Database.csproj", "{3CE25011-346E-440A-92DC-24B4FBD94321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C026A8C5-5FAA-4E5A-A044-F06896230312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C026A8C5-5FAA-4E5A-A044-F06896230312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C026A8C5-5FAA-4E5A-A044-F06896230312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C026A8C5-5FAA-4E5A-A044-F06896230312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49823B2D-213F-4825-9C06-63D5903D0B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49823B2D-213F-4825-9C06-63D5903D0B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49823B2D-213F-4825-9C06-63D5903D0B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49823B2D-213F-4825-9C06-63D5903D0B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE25011-346E-440A-92DC-24B4FBD94321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE25011-346E-440A-92DC-24B4FBD94321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE25011-346E-440A-92DC-24B4FBD94321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE25011-346E-440A-92DC-24B4FBD94321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F082CEF-2E52-4674-B6A0-E6385043677A}
+	EndGlobalSection
+EndGlobal
